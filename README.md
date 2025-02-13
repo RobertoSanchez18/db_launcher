@@ -62,5 +62,5 @@ docker rm sqlserver mysqlserver postgresdb
 ## 📜 Licencia
 Este proyecto está bajo la **Licencia MIT**.
 
-📌 **Autor:** [RobertoSanchez18](https://github.com/tu-usuario)
+📌 **Autor:** [RobertoSanchez18](https://github.com/RobertoSanchez18)
 
